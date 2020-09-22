@@ -1,2 +1,2 @@
 # Vehicle-license-plate-recognition
-Simple license plate segmentation and image recognition
+1.For province training greatly, you can collect more dataset about province and put it into ./train_images/training-set/chinese-characters/*. 
